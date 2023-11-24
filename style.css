@@ -11,7 +11,7 @@ header {
     padding: 1em;
 }
 
-.season-1, .season-2 {
+.season {
     text-align: left;
     position: relative;
     display: block;
@@ -33,6 +33,10 @@ li {
     margin-bottom: 10px; 
 }
 
-.season-2{
+.b, .c{
+    top: 99px;
+}
+
+.c{
     top: 99px;
 }
